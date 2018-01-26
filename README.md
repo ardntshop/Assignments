@@ -35,3 +35,4 @@ Due Thursday, March 1st (W8)
 #### Final Project
 Due Thursday, March 22nd @ 11:59 pm (Finals Week)
 
+### Random note
